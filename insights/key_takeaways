@@ -1,0 +1,6 @@
+## Key Takeaways
+
+- Conversion should be interpreted as a range, not a fixed value.
+- Smaller samples naturally produce larger fluctuations.
+- Decision-making without accounting for variance leads to false positives.
+- Simulation is an effective way to communicate uncertainty to non-technical stakeholders.
